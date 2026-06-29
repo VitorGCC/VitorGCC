@@ -2,7 +2,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Localização-Camaçari%20--%20BA%2C%20Brasil-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
-  <img src="https://img.shields.io/badge/Área-Desenvolvedor%20.NET-purple?style=flat-square&logo=dotnet&logoColor=white" alt="Área">
+  <img src="https://img.shields.io/badge/Est%C3%A1gio-Ultrasistech-0056b3?style=flat-square" alt="Estágio">
+  <img src="https://img.shields.io/badge/Graduando-Engenharia%20de%20Software-success?style=flat-square" alt="Faculdade">
   <img src="https://img.shields.io/github/followers/VitorGCC?label=Seguidores&style=flat-square&color=58a6ff" alt="Seguidores">
 </div>
 
@@ -10,11 +11,13 @@
 
 ### 📝 Sobre Mim
 
-Sou **Técnico em Desenvolvimento de Sistemas** e **Desenvolvedor .NET** apaixonado por transformar ideias complexas em código limpo, funcional e de alta performance. Tenho experiência com desenvolvimento desktop de baixo nível, APIs Web robustas e automações completas.
+Sou formado em **Desenvolvimento de Sistemas** e atualmente estou cursando **Engenharia de Software** na faculdade. Sou apaixonado por transformar ideias complexas em código limpo, funcional e de alta performance. 
+
+Atualmente, trabalho na **Ultrasistech** como **Estagiário em Desenvolvimento**, onde aplico meus conhecimentos práticos em desenvolvimento de software no dia a dia.
 
 - 🖥️ Criador do **GamepadEmulator (EmuShot)**, simulando controles de forma indetectável em nível de sistema.
 - 🚀 Foco constante em performance, otimização de consultas a banco de dados e arquitetura de software limpa.
-- 🎓 Sempre buscando novos desafios tecnológicos e evoluindo no ecossistema .NET.
+- 🎓 Buscando sempre expandir meus conhecimentos teóricos e práticos no ecossistema de desenvolvimento.
 
 ---
 
