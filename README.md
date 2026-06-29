@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Localização-Camaçari%20--%20BA%2C%20Brasil-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
   <img src="https://img.shields.io/badge/Est%C3%A1gio-Ultrasistech-0056b3?style=flat-square" alt="Estágio">
+  <img src="https://img.shields.io/badge/Área-Desenvolvedor%20Fullstack-purple?style=flat-square&logo=react&logoColor=white" alt="Área">
   <img src="https://img.shields.io/badge/Graduando-Engenharia%20de%20Software-success?style=flat-square" alt="Faculdade">
   <img src="https://img.shields.io/github/followers/VitorGCC?label=Seguidores&style=flat-square&color=58a6ff" alt="Seguidores">
 </div>
@@ -11,33 +12,43 @@
 
 ### 📝 Sobre Mim
 
-Sou formado em **Desenvolvimento de Sistemas** e atualmente estou cursando **Engenharia de Software** na faculdade. Sou apaixonado por transformar ideias complexas em código limpo, funcional e de alta performance. 
+Sou formado em **Desenvolvimento de Sistemas** e atualmente estou cursando **Engenharia de Software** na faculdade. Atuo como **Desenvolvedor Fullstack**, tendo foco principal em **React** e **TypeScript** no dia a dia, sem deixar de lado meu sólido domínio em desenvolvimento back-end e desktop com **.NET/C#**, **Java** e **PHP**.
 
-Atualmente, trabalho na **Ultrasistech** como **Estagiário em Desenvolvimento**, onde aplico meus conhecimentos práticos em desenvolvimento de software no dia a dia.
+Atualmente, trabalho na **Ultrasistech** como **Estagiário em Desenvolvimento Fullstack**, onde participo ativamente de times ágeis utilizando frameworks como **Scrum** e **Kanban** para a organização de sprints e entrega de valor ponta a ponta.
 
-- 🖥️ Criador do **GamepadEmulator (EmuShot)**, simulando controles de forma indetectável em nível de sistema.
-- 🚀 Foco constante em performance, otimização de consultas a banco de dados e arquitetura de software limpa.
-- 🎓 Buscando sempre expandir meus conhecimentos teóricos e práticos no ecossistema de desenvolvimento.
+- 🖥️ Criador do **GamepadEmulator (EmuShot)**, simulando controles de forma indetectável em nível de sistema usando C# e ViGEm.
+- 🚀 Foco constante em performance, desenvolvimento de interfaces fluidas e arquitetura de software escalável.
+- 👥 Experiência prática com **Metodologias Ágeis (Scrum, Kanban)**, colaborando com equipes focadas em qualidade e agilidade.
+- 🎓 Sempre buscando conectar o aprendizado teórico da engenharia de software com desafios práticos do mundo real.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### Linguagens & Frameworks Principais
+#### Foco Principal (Front-end & Modern Web)
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
+
+#### Back-end & Outras Linguagens de Domínio
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET_8-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET 8">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/Windows_Forms-%23512BD4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </div>
 
-#### Frontend & Banco de Dados
+#### Metodologias, Organização & Banco de Dados
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Scrum-%23C40707.svg?style=for-the-badge&logo=scrumorg&logoColor=white" alt="Scrum">
+  <img src="https://img.shields.io/badge/Kanban-%23007acc.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
+  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Trello-%23007ACC.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
@@ -73,9 +84,9 @@ Atualmente, trabalho na **Ultrasistech** como **Estagiário em Desenvolvimento**
       <code>Java</code> <code>HTML</code> <code>CSS</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🚗 <a href="https://github.com/VitorGCC/Mandacaru-baja">Mandacaru Baja</a></h4>
-      <p>Código-fonte e sistemas desenvolvidos para a equipe Mandacaru Baja SAE (competição de engenharia automotiva fora de estrada).</p>
-      <code>C++</code> <code>Arduino</code> <code>Embedded</code>
+      <h4>🛡️ <a href="https://github.com/VitorGCC/IndustrialSystem">IndustrialSafetySystem</a></h4>
+      <p>Sistema web voltado para a gestão de segurança corporativa, conformidade de processos e integridade operacional em indústrias.</p>
+      <code>PHP</code> <code>HTML</code> <code>CSS</code> <code>MySQL</code>
     </td>
   </tr>
 </table>
