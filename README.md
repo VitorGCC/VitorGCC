@@ -96,12 +96,12 @@ Atualmente, trabalho na **Ultrasistech** como **Estagiário em Desenvolvimento F
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorGCC&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub de VitorGCC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGCC&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorGCC&theme=tokyonight" alt="Streak de contribuições" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorGCC&theme=tokyonight" alt="Detalhes do Perfil" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorGCC&theme=tokyonight" alt="Estatísticas Gerais" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorGCC&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorGCC&theme=tokyonight" alt="Streak de Contribuições" />
 </div>
 
 ---
@@ -122,5 +122,5 @@ Atualmente, trabalho na **Ultrasistech** como **Estagiário em Desenvolvimento F
 
 <div align="center">
   <br />
-  <img src="https://profile-counter.glitch.me/VitorGCC/count.svg" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=VitorGCC&color=blue" alt="Contador de Visitas" />
 </div>
