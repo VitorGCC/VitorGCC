@@ -115,7 +115,7 @@ Atualmente, trabalho na **Ultrasistech** como **Estagiário em Desenvolvimento F
   <a href="https://vitorgcc.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
-  <a href="mailto:vitor@ultrasistech.com" target="_blank">
+  <a href="mailto:vitorgabriel491@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </div>
