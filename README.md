@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Localização-Camaçari%20--%20BA%2C%20Brasil-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
-  <img src="https://img.shields.io/badge/Est%C3%A1gio-Ultrasistech-0056b3?style=flat-square" alt="Dev FullStack">
+  <img src="https://img.shields.io/badge/DevFullstack-Ultrasistech-0056b3?style=flat-square" alt="Dev FullStack">
   <img src="https://img.shields.io/badge/Área-Desenvolvedor%20Fullstack-purple?style=flat-square&logo=react&logoColor=white" alt="Área">
   <img src="https://img.shields.io/badge/Graduando-Engenharia%20de%20Software-success?style=flat-square" alt="Faculdade">
   <img src="https://img.shields.io/github/followers/VitorGCC?label=Seguidores&style=flat-square&color=58a6ff" alt="Seguidores">
