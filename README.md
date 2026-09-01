@@ -14,7 +14,7 @@
 
 Sou formado em **Desenvolvimento de Sistemas** e atualmente estou cursando **Engenharia de Software** na faculdade. Atuo como **Desenvolvedor Fullstack**, tendo foco principal em **React** e **TypeScript** no dia a dia, sem deixar de lado meu sólido domínio em desenvolvimento back-end e desktop com **.NET/C#**, **Java** e **PHP**.
 
-Atualmente, trabalho na **Ultrasistech** como **Estagiário em Desenvolvimento Fullstack**, onde participo ativamente de times ágeis utilizando frameworks como **Scrum** e **Kanban** para a organização de sprints e entrega de valor ponta a ponta.
+Atualmente, trabalho na **Ultrasistech** como **Desenvolvedor Fullstack**, onde participo ativamente de times ágeis utilizando frameworks como **Scrum** e **Kanban** para a organização de sprints e entrega de valor ponta a ponta.
 
 - 🖥️ Criador do **GamepadEmulator (EmuShot)**, simulando controles de forma indetectável em nível de sistema usando C# e ViGEm.
 - 🚀 Foco constante em performance, desenvolvimento de interfaces fluidas e arquitetura de software escalável.
